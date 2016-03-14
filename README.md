@@ -8,7 +8,11 @@ This comparison and reason behind choosing chef over ansible is not passed by an
 Chef: On contrary, Chef claims to have a large Operating System support including Linux, Windows, iOS etc. 
 
 ###Terrible GUI vs Neat GUI: 
-**Ansible:** There are cases in which you will find totally different result in GUI and CLI for same queries.  The features are limited and GUI is not properly synced with CLI.  
+
+
+**Ansible:** There are cases in which you will find totally different result in GUI and CLI for same queries.  The features are limited and GUI is not properly synced with CLI.
+
+
 **Chef:** Even in Chef, you can't manage your entire infrastructure using only GUI. There are certain limitations but it still has a lot of features which makes Chef administration easier. It is neat and well synced with CLI.
 
 ###Less Documentation vs Better Documentation:
